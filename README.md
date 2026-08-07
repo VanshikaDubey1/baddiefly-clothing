@@ -9,6 +9,11 @@
 
 <p align="center">
   <img src="baddie.png" width="65%" alt="Sleeve Collection">
+</p> 
+
+<p align="center">
+  <img src="<img width="1369" height="1149" alt="ChatGPT Image Aug 7, 2026, 05_41_54 PM" src="https://github.com/user-attachments/assets/c921798a-c258-49c7-8abc-faff526b3b3a" />
+.png" width="65%" alt="Sleeve Collection">
 </p>
   
 # ✨ The Idea
