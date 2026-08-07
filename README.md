@@ -5,7 +5,12 @@
 > Why buy 5 different tops when one can serve 5 completely different personalities?
 
 ---
+ ## 🎀 Explore Every Style
 
+<p align="center">
+  <img src="assets/showcase.png" width="100%" alt="Sleeve Collection">
+</p>
+  
 # ✨ The Idea
 
 Fashion isn't about owning more.
