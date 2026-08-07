@@ -8,7 +8,7 @@
  ## 🎀 Explore Every Style
 
 <p align="center">
-  <img src="baddie.png" width="100%" alt="Sleeve Collection">
+  <img src="assets/showcase.png" width="65%" alt="Sleeve Collection">
 </p>
   
 # ✨ The Idea
