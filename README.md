@@ -11,7 +11,7 @@
   <img src="baddie.png" width="45%" alt="Sleeve Collection">
 </p> 
 
-
+ ## 🎀 
   <p align="center">
   <img src="ChatGPT Image Aug 7, 2026, 05_41_54 PM.png" width="45%" alt="Sleeve Collection">
 </p> 
