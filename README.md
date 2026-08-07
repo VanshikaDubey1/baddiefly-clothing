@@ -8,12 +8,12 @@
  ## 🎀 Explore Every Style
 
 <p align="center">
-  <img src="baddie.png" width="65%" alt="Sleeve Collection">
+  <img src="baddie.png" width="85%" alt="Sleeve Collection">
 </p> 
 
 
   <p align="center">
-  <img src="ChatGPT Image Aug 7, 2026, 05_41_54 PM.png" width="65%" alt="Sleeve Collection">
+  <img src="ChatGPT Image Aug 7, 2026, 05_41_54 PM.png" width="85%" alt="Sleeve Collection">
 </p> 
 
 # ✨ The Idea
